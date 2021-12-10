@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-09T23:54:20-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Portifolio do Clauder",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-09T23:54:25-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
